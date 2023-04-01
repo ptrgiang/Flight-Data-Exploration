@@ -22,12 +22,16 @@ The dataset consists of observations of US domestic flights in the year 2013. It
 - Cancelled: A binary indicator that the flight was cancelled
 
 
+
+
 `Examples`
 
 The Jupyter Notebook flight_data_exploration.ipynb contains code examples for exploring the dataset. Some of the examples include:
 - Descriptive statistics of the dataset
 - Histograms and box plots of the numerical variables
 - Bar plots and pivot tables of categorical variables
+
+
 
 
 `Acknowledgements`
