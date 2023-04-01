@@ -26,7 +26,7 @@ The dataset consists of observations of US domestic flights in the year 2013. It
 
 `Examples`
 
-The Jupyter Notebook flight_data_exploration.ipynb contains code examples for exploring the dataset. Some of the examples include:
+The Jupyter Notebook **flight_data_exploration.ipynb** contains code examples for exploring the dataset. Some of the examples include:
 - Descriptive statistics of the dataset
 - Histograms and box plots of the numerical variables
 - Bar plots and pivot tables of categorical variables
@@ -36,4 +36,4 @@ The Jupyter Notebook flight_data_exploration.ipynb contains code examples for ex
 
 `Acknowledgements`
 
-The dataset used in this repository was obtained from the Bureau of Transportation Statistics.
+The dataset used in this repository was obtained from the **Bureau of Transportation Statistics**.
