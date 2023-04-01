@@ -1,6 +1,7 @@
 # Flight-Data-Exploration
 
-Dataset Description \n
+Dataset Description 
+
 The dataset consists of observations of US domestic flights in the year 2013. It contains the following fields:
 - Year: The year of the flight (all records are from 2013)
 - Month: The month of the flight
@@ -20,7 +21,9 @@ The dataset consists of observations of US domestic flights in the year 2013. It
 - ArrDelay15: A binary indicator that arrival was delayed by more than 15 minutes (and therefore considered "late")
 - Cancelled: A binary indicator that the flight was cancelled
 
+
 Examples
+
 The Jupyter Notebook flight_data_exploration.ipynb contains code examples for exploring the dataset. Some of the examples include:
 - Descriptive statistics of the dataset
 - Histograms and box plots of the numerical variables
@@ -28,4 +31,5 @@ The Jupyter Notebook flight_data_exploration.ipynb contains code examples for ex
 
 
 Acknowledgements
+
 The dataset used in this repository was obtained from the Bureau of Transportation Statistics.
