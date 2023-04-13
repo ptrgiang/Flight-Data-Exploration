@@ -1,7 +1,7 @@
 # Flight Data Exploration
 
 
-![Alt Text]([image-url](https://i.pinimg.com/564x/57/77/47/5777478885b233c5a486c613da6a8a3f.jpg))
+![Alt Text](https://i.pinimg.com/564x/57/77/47/5777478885b233c5a486c613da6a8a3f.jpg)
 
 
 `Dataset Description`
